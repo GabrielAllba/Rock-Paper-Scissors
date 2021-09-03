@@ -37,6 +37,10 @@ int main(){
   else if(userchoice == 5){
     std::cout << "You choose: Spock \n";
   }
+  else{
+      std::cout << "Enter correct number! \n";
+      return 0;
+  }
 
   srand(time(NULL));
 
