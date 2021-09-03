@@ -24,13 +24,13 @@ Write a rock_paper_scissors.cpp program that:
 
 How to compile and execute:
 
-1. Download `sortinghat.cpp`.
+1. Download `rockpaper.cpp`.
 2. Open command line interface and navigate to the directory where the files are downloaded.
 3. Run the following commands to compile and execute the program:
 
 ```git
-g++ sortinghat.cpp -o sortinghat
-./sortinghat
+g++ rockpaper.cpp -o rockpaper
+./rockpaper
 ```
 
 ## Sources
