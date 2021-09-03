@@ -1,5 +1,5 @@
 # Sorting Hat
-The Rock Paper Scissors Lizard Spock games. This is the infamous game brought to popularity with the TV show <i>The Big Bang Theory<i>. This training project, prepared by [Codecademy](https://www.codecademy.com/learn/learn-c-plus-plus).
+The Rock Paper Scissors Lizard Spock games. This is the infamous game brought to popularity with the TV show <i>The Big Bang Theory</i>. This training project, prepared by [Codecademy](https://www.codecademy.com/learn/learn-c-plus-plus).
 
 ## Table of Contents
 
